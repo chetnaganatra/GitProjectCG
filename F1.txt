@@ -4,4 +4,6 @@ Change - for login feature
 
 change - for payment feature
 
-Change - to fix bug1
+Change -> to fix bug1
+
+Change -> to fix bug2
