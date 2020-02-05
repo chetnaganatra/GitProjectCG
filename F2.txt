@@ -1,4 +1,10 @@
 Code for New Feature implementation
 new change
+
 Change1 -> Change is in defined from remote to local machine
+
+Change2 -> from local to remote
+
 Change3 ->Change from another team mate to fetch from local
+
+F2 updated for local to remote change
