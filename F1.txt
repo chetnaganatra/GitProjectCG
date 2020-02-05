@@ -4,6 +4,9 @@ Change - For login feature
 
 Change - For payment feature
 
-Change - To fix bug1
-
 Change -> change made by another team member from remote repo
+
+Change -> To fix bug1
+
+Change -> to fix bug2
+
