@@ -1,7 +1,9 @@
 Hello World
 
-Change - for login feature
+Change - For login feature
 
-change - for payment feature
+Change - For payment feature
 
-Change - to fix bug1
+Change - To fix bug1
+
+Change -> change made by another team member from remote repo
